@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning .Wed Development..
 - 💞️ I’m looking to collaborate on .AI worker..
 - 📫 How to reach me .gmail -vishwashmandal53@gmail.com..
-- skills-C,C++,PYTHON,HTML5,CSS3,JAVASCRIPT,JQUERY,SQL...
+- skills-C,C++,PYTHON,DATASTRUCTURE,ALGORITHM,HTML5,CSS3,JAVASCRIPT,JQUERY,SQL...
 - 
 
 <!---
